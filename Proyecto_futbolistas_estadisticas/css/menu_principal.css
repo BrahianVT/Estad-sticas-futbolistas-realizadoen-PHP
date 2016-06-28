@@ -1,0 +1,27 @@
+﻿body {
+  font-family:Arial,Helvettica,sans-serif;
+  background-color:#333333;
+}
+
+header{
+  width: 80%;
+  color:white;
+  background-color:black;
+  margin-left:auto;
+  margin-right:auto;
+  padding:10px;
+  overflow:hidden;
+  border:1px solid white;
+}
+
+section{
+ width: 80%;
+ background-color: white;
+ margin-left:auto;
+ margin-right:auto;
+ padding:10px;
+ border:1px solid black;
+}
+footer{
+ color:white;
+}
